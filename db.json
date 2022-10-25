@@ -1,7 +1,7 @@
 {
   "success: true
   ,
-  "files": [
+  "files": 
     {
       "title": "тест файл1"
       "description": dfsdf dsfsdf sdfsdf
@@ -10,6 +10,5 @@
       "path": "https://www.learnopencv.com/wp-content/uploads/2015/05/Computer-Vision-Resources.pdf"
       
     },
-  ]
   "removeDate":'2022.10.26"
 }
