@@ -1,14 +1,12 @@
 {
-  "success: true
-  ,
-  "files": 
-    {
-      "title": "тест файл1"
-      "description": dfsdf dsfsdf sdfsdf
-      "icon": "https://pngicon.ru/file/uploads/gory.png"
-      "process": true
-      "path": "https://www.learnopencv.com/wp-content/uploads/2015/05/Computer-Vision-Resources.pdf"
-      
-    },
-  "removeDate":'2022.10.26"
+	"success": true,
+	"files": {
+		"title": "тест файл1",
+		"description": "dfsdf dsfsdf sdfsdf",
+		"icon": "https://pngicon.ru/file/uploads/gory.png",
+		"process": true,
+		"path": "https://www.learnopencv.com/wp-content/uploads/2015/05/Computer-Vision-Resources.pdf"
+
+	},
+	"removeDate": "2022.10.26"
 }
